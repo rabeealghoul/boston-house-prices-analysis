@@ -24,3 +24,7 @@ This project is an end-to-end data analysis and machine learning pipeline. It us
 1. Install the required libraries:
    ```bash
    pip install pandas matplotlib seaborn scikit-learn
+   ## 🖥️ Live Demo (Streamlit App)
+Here is a screenshot of the interactive web application built with Streamlit:
+
+![App Screenshot](home.png)
